@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DKDinushaPerera
-- 👀 I’m interested in #Coding #Developing #Designing
-- 🌱 I’m currently learning Software Engineering at SLIIT
+- 👀 I’m interested in #Coding #Developing #Designing #Hacking #CyberSecurity #NOC #Defencing #Attacks
+- 🌱 I’m currently learning Cyber Security at SLIIT
 - 💞️ I’m looking to collaborate on Academic and Non-Academic Projects
 - 📫 Reach me on #Facebook #Instagram #Linkdein
 
